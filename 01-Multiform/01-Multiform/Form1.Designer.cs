@@ -32,6 +32,11 @@
             this.BtnForm2 = new System.Windows.Forms.Button();
             this.txtPassata = new System.Windows.Forms.TextBox();
             this.btnPassaTxt = new System.Windows.Forms.Button();
+            this.btnFormModale = new System.Windows.Forms.Button();
+            this.lblNomefm = new System.Windows.Forms.Label();
+            this.txtNomefm = new System.Windows.Forms.TextBox();
+            this.lblEtafm = new System.Windows.Forms.Label();
+            this.txtEtafm = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
             // 
             // BtnApriForm2
@@ -71,11 +76,62 @@
             this.btnPassaTxt.UseVisualStyleBackColor = true;
             this.btnPassaTxt.Click += new System.EventHandler(this.btnPassaTxt_Click);
             // 
+            // btnFormModale
+            // 
+            this.btnFormModale.Location = new System.Drawing.Point(49, 202);
+            this.btnFormModale.Name = "btnFormModale";
+            this.btnFormModale.Size = new System.Drawing.Size(130, 23);
+            this.btnFormModale.TabIndex = 4;
+            this.btnFormModale.Text = "APRI FORM MODALE";
+            this.btnFormModale.UseVisualStyleBackColor = true;
+            this.btnFormModale.Click += new System.EventHandler(this.btnFormModale_Click);
+            // 
+            // lblNomefm
+            // 
+            this.lblNomefm.AutoSize = true;
+            this.lblNomefm.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.35F);
+            this.lblNomefm.Location = new System.Drawing.Point(46, 158);
+            this.lblNomefm.Name = "lblNomefm";
+            this.lblNomefm.Size = new System.Drawing.Size(44, 15);
+            this.lblNomefm.TabIndex = 5;
+            this.lblNomefm.Text = "NOME";
+            // 
+            // txtNomefm
+            // 
+            this.txtNomefm.Location = new System.Drawing.Point(110, 158);
+            this.txtNomefm.Name = "txtNomefm";
+            this.txtNomefm.ReadOnly = true;
+            this.txtNomefm.Size = new System.Drawing.Size(100, 20);
+            this.txtNomefm.TabIndex = 6;
+            // 
+            // lblEtafm
+            // 
+            this.lblEtafm.AutoSize = true;
+            this.lblEtafm.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.35F);
+            this.lblEtafm.Location = new System.Drawing.Point(252, 161);
+            this.lblEtafm.Name = "lblEtafm";
+            this.lblEtafm.Size = new System.Drawing.Size(29, 15);
+            this.lblEtafm.TabIndex = 7;
+            this.lblEtafm.Text = "ETA";
+            // 
+            // txtEtafm
+            // 
+            this.txtEtafm.Location = new System.Drawing.Point(319, 156);
+            this.txtEtafm.Name = "txtEtafm";
+            this.txtEtafm.ReadOnly = true;
+            this.txtEtafm.Size = new System.Drawing.Size(100, 20);
+            this.txtEtafm.TabIndex = 8;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.txtEtafm);
+            this.Controls.Add(this.lblEtafm);
+            this.Controls.Add(this.txtNomefm);
+            this.Controls.Add(this.lblNomefm);
+            this.Controls.Add(this.btnFormModale);
             this.Controls.Add(this.btnPassaTxt);
             this.Controls.Add(this.txtPassata);
             this.Controls.Add(this.BtnForm2);
@@ -94,6 +150,11 @@
         private System.Windows.Forms.Button BtnForm2;
         private System.Windows.Forms.TextBox txtPassata;
         private System.Windows.Forms.Button btnPassaTxt;
+        private System.Windows.Forms.Button btnFormModale;
+        private System.Windows.Forms.Label lblNomefm;
+        private System.Windows.Forms.TextBox txtNomefm;
+        private System.Windows.Forms.Label lblEtafm;
+        private System.Windows.Forms.TextBox txtEtafm;
     }
 }
 

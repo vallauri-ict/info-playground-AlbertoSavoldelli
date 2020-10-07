@@ -47,5 +47,18 @@ namespace _01_Multiform
             f2b.Show();
 
         }
+
+        private void btnFormModale_Click(object sender, EventArgs e)
+        {
+            FormModale fm = new FormModale();
+            if (fm.ShowDialog() == DialogResult.OK)
+            {
+                txtNomefm.Text = fm.nome;
+                txtEtafm.Text = fm.eta;
+                MessageBox.Show("Premuto ok");
+            }
+            else
+                MessageBox.Show("Premuto annulla");
+        }
     }
 }

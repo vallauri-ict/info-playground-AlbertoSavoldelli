@@ -1,0 +1,10 @@
+C:\Users\a.savoldelli.1375\Documents\info-playground-AlbertoSavoldelli\02-Form Mdi\02-Form Mdi\bin\Debug\02-Form Mdi.exe.config
+C:\Users\a.savoldelli.1375\Documents\info-playground-AlbertoSavoldelli\02-Form Mdi\02-Form Mdi\bin\Debug\02-Form Mdi.exe
+C:\Users\a.savoldelli.1375\Documents\info-playground-AlbertoSavoldelli\02-Form Mdi\02-Form Mdi\bin\Debug\02-Form Mdi.pdb
+C:\Users\a.savoldelli.1375\Documents\info-playground-AlbertoSavoldelli\02-Form Mdi\02-Form Mdi\obj\Debug\02-Form Mdi.csprojAssemblyReference.cache
+C:\Users\a.savoldelli.1375\Documents\info-playground-AlbertoSavoldelli\02-Form Mdi\02-Form Mdi\obj\Debug\_02_Form_Mdi.Form1.resources
+C:\Users\a.savoldelli.1375\Documents\info-playground-AlbertoSavoldelli\02-Form Mdi\02-Form Mdi\obj\Debug\_02_Form_Mdi.Properties.Resources.resources
+C:\Users\a.savoldelli.1375\Documents\info-playground-AlbertoSavoldelli\02-Form Mdi\02-Form Mdi\obj\Debug\02-Form Mdi.csproj.GenerateResource.cache
+C:\Users\a.savoldelli.1375\Documents\info-playground-AlbertoSavoldelli\02-Form Mdi\02-Form Mdi\obj\Debug\02-Form Mdi.exe
+C:\Users\a.savoldelli.1375\Documents\info-playground-AlbertoSavoldelli\02-Form Mdi\02-Form Mdi\obj\Debug\02-Form Mdi.pdb
+C:\Users\a.savoldelli.1375\Documents\info-playground-AlbertoSavoldelli\02-Form Mdi\02-Form Mdi\obj\Debug\_02_Form_Mdi.FormModalEsci.resources
