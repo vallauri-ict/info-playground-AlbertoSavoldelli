@@ -1,1 +1,1 @@
-Esercizio 1 apertura seconda form con bottone. Creazione da "aggiungi" e creazione da codice.
+Esercizio 2 con utilizzo form mdi e modal. linguaggio c#.
