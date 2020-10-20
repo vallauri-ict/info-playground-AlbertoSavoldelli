@@ -1,0 +1,11 @@
+C:\Users\albyj\Documents\04-PreparazioneAllaVerifica\04-PreparazioneAllaVerifica\obj\Debug\04-PreparazioneAllaVerifica.csprojAssemblyReference.cache
+C:\Users\albyj\Documents\04-PreparazioneAllaVerifica\04-PreparazioneAllaVerifica\obj\Debug\_04_PreparazioneAllaVerifica.Form1.resources
+C:\Users\albyj\Documents\04-PreparazioneAllaVerifica\04-PreparazioneAllaVerifica\obj\Debug\_04_PreparazioneAllaVerifica.Form2.resources
+C:\Users\albyj\Documents\04-PreparazioneAllaVerifica\04-PreparazioneAllaVerifica\obj\Debug\_04_PreparazioneAllaVerifica.Properties.Resources.resources
+C:\Users\albyj\Documents\04-PreparazioneAllaVerifica\04-PreparazioneAllaVerifica\obj\Debug\04-PreparazioneAllaVerifica.csproj.GenerateResource.cache
+C:\Users\albyj\Documents\04-PreparazioneAllaVerifica\04-PreparazioneAllaVerifica\bin\Debug\04-PreparazioneAllaVerifica.exe.config
+C:\Users\albyj\Documents\04-PreparazioneAllaVerifica\04-PreparazioneAllaVerifica\bin\Debug\04-PreparazioneAllaVerifica.exe
+C:\Users\albyj\Documents\04-PreparazioneAllaVerifica\04-PreparazioneAllaVerifica\bin\Debug\04-PreparazioneAllaVerifica.pdb
+C:\Users\albyj\Documents\04-PreparazioneAllaVerifica\04-PreparazioneAllaVerifica\obj\Debug\04-PreparazioneAllaVerifica.exe
+C:\Users\albyj\Documents\04-PreparazioneAllaVerifica\04-PreparazioneAllaVerifica\obj\Debug\04-PreparazioneAllaVerifica.pdb
+C:\Users\albyj\Documents\04-PreparazioneAllaVerifica\04-PreparazioneAllaVerifica\obj\Debug\_04_PreparazioneAllaVerifica.FormFiglia.resources
