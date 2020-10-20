@@ -58,5 +58,52 @@ namespace _04_PreparazioneAllaVerifica
         {
             ff.TxtValue= txtStringa.Text;
         }
+
+        private void formMDIToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            FormMdiParent fmp = new FormMdiParent();
+            fmp.Show();
+            toolStripStatusLabel1.Text = "File/FormMDI";
+        }
+
+        private void loadToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            toolStripStatusLabel1.Text = "File/Load";
+            load();
+        }
+        private void load()
+        {
+            if (toolStripProgressBar1.Value == 100)
+            {
+                toolStripProgressBar1.Value = 0;
+
+            }
+            toolStripProgressBar1.Value = 100;
+        }
+
+        private void saveToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            toolStripStatusLabel1.Text = "File/Save";
+            load();
+        }
+
+        private void exitToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            FormExit fe = new FormExit();
+            if (fe.ShowDialog() == DialogResult.OK)
+            {
+                Close();
+            }
+            else
+            {
+                toolStripStatusLabel1.Text = "File/UscitaAnnullata";
+            }
+        }
+
+        private void toolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Savoldelli Alberto ©\nProject finished on 20/10/2020", "?");
+            toolStripStatusLabel1.Text = "?";
+        }
     }
 }
