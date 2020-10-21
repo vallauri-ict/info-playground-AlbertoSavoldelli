@@ -105,5 +105,10 @@ namespace _04_PreparazioneAllaVerifica
             MessageBox.Show("Savoldelli Alberto ©\nProject finished on 20/10/2020", "?");
             toolStripStatusLabel1.Text = "?";
         }
+
+        private void txtNome_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

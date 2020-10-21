@@ -22,3 +22,16 @@ C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\04-PreparazioneAllaVe
 C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\04-PreparazioneAllaVerifica\04-PreparazioneAllaVerifica\obj\Debug\04-PreparazioneAllaVerifica.pdb
 C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\04-PreparazioneAllaVerifica\04-PreparazioneAllaVerifica\obj\Debug\_04_PreparazioneAllaVerifica.FormMdiParent.resources
 C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\04-PreparazioneAllaVerifica\04-PreparazioneAllaVerifica\obj\Debug\_04_PreparazioneAllaVerifica.FormExit.resources
+C:\Users\a.savoldelli.1375\Desktop\info-playground-AlbertoSavoldelli\04-PreparazioneAllaVerifica\04-PreparazioneAllaVerifica\bin\Debug\04-PreparazioneAllaVerifica.exe.config
+C:\Users\a.savoldelli.1375\Desktop\info-playground-AlbertoSavoldelli\04-PreparazioneAllaVerifica\04-PreparazioneAllaVerifica\bin\Debug\04-PreparazioneAllaVerifica.exe
+C:\Users\a.savoldelli.1375\Desktop\info-playground-AlbertoSavoldelli\04-PreparazioneAllaVerifica\04-PreparazioneAllaVerifica\bin\Debug\04-PreparazioneAllaVerifica.pdb
+C:\Users\a.savoldelli.1375\Desktop\info-playground-AlbertoSavoldelli\04-PreparazioneAllaVerifica\04-PreparazioneAllaVerifica\obj\Debug\04-PreparazioneAllaVerifica.csprojAssemblyReference.cache
+C:\Users\a.savoldelli.1375\Desktop\info-playground-AlbertoSavoldelli\04-PreparazioneAllaVerifica\04-PreparazioneAllaVerifica\obj\Debug\_04_PreparazioneAllaVerifica.Form1.resources
+C:\Users\a.savoldelli.1375\Desktop\info-playground-AlbertoSavoldelli\04-PreparazioneAllaVerifica\04-PreparazioneAllaVerifica\obj\Debug\_04_PreparazioneAllaVerifica.Form2.resources
+C:\Users\a.savoldelli.1375\Desktop\info-playground-AlbertoSavoldelli\04-PreparazioneAllaVerifica\04-PreparazioneAllaVerifica\obj\Debug\_04_PreparazioneAllaVerifica.FormExit.resources
+C:\Users\a.savoldelli.1375\Desktop\info-playground-AlbertoSavoldelli\04-PreparazioneAllaVerifica\04-PreparazioneAllaVerifica\obj\Debug\_04_PreparazioneAllaVerifica.FormFiglia.resources
+C:\Users\a.savoldelli.1375\Desktop\info-playground-AlbertoSavoldelli\04-PreparazioneAllaVerifica\04-PreparazioneAllaVerifica\obj\Debug\_04_PreparazioneAllaVerifica.FormMdiParent.resources
+C:\Users\a.savoldelli.1375\Desktop\info-playground-AlbertoSavoldelli\04-PreparazioneAllaVerifica\04-PreparazioneAllaVerifica\obj\Debug\_04_PreparazioneAllaVerifica.Properties.Resources.resources
+C:\Users\a.savoldelli.1375\Desktop\info-playground-AlbertoSavoldelli\04-PreparazioneAllaVerifica\04-PreparazioneAllaVerifica\obj\Debug\04-PreparazioneAllaVerifica.csproj.GenerateResource.cache
+C:\Users\a.savoldelli.1375\Desktop\info-playground-AlbertoSavoldelli\04-PreparazioneAllaVerifica\04-PreparazioneAllaVerifica\obj\Debug\04-PreparazioneAllaVerifica.exe
+C:\Users\a.savoldelli.1375\Desktop\info-playground-AlbertoSavoldelli\04-PreparazioneAllaVerifica\04-PreparazioneAllaVerifica\obj\Debug\04-PreparazioneAllaVerifica.pdb

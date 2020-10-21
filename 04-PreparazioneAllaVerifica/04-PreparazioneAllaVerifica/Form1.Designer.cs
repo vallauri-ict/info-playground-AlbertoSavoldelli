@@ -87,6 +87,7 @@
             this.txtNome.ReadOnly = true;
             this.txtNome.Size = new System.Drawing.Size(100, 20);
             this.txtNome.TabIndex = 3;
+            this.txtNome.TextChanged += new System.EventHandler(this.txtNome_TextChanged);
             // 
             // txtEta
             // 
