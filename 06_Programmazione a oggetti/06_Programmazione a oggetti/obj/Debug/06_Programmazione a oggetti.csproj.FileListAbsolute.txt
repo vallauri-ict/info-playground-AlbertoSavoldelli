@@ -1,0 +1,9 @@
+C:\Users\a.savoldelli.1375\Desktop\info-playground-AlbertoSavoldelli\06_Programmazione a oggetti\06_Programmazione a oggetti\obj\Debug\06_Programmazione a oggetti.csprojAssemblyReference.cache
+C:\Users\a.savoldelli.1375\Desktop\info-playground-AlbertoSavoldelli\06_Programmazione a oggetti\06_Programmazione a oggetti\obj\Debug\_06_Programmazione_a_oggetti.Form1.resources
+C:\Users\a.savoldelli.1375\Desktop\info-playground-AlbertoSavoldelli\06_Programmazione a oggetti\06_Programmazione a oggetti\obj\Debug\_06_Programmazione_a_oggetti.Properties.Resources.resources
+C:\Users\a.savoldelli.1375\Desktop\info-playground-AlbertoSavoldelli\06_Programmazione a oggetti\06_Programmazione a oggetti\obj\Debug\06_Programmazione a oggetti.csproj.GenerateResource.cache
+C:\Users\a.savoldelli.1375\Desktop\info-playground-AlbertoSavoldelli\06_Programmazione a oggetti\06_Programmazione a oggetti\bin\Debug\06_Programmazione a oggetti.exe.config
+C:\Users\a.savoldelli.1375\Desktop\info-playground-AlbertoSavoldelli\06_Programmazione a oggetti\06_Programmazione a oggetti\bin\Debug\06_Programmazione a oggetti.exe
+C:\Users\a.savoldelli.1375\Desktop\info-playground-AlbertoSavoldelli\06_Programmazione a oggetti\06_Programmazione a oggetti\bin\Debug\06_Programmazione a oggetti.pdb
+C:\Users\a.savoldelli.1375\Desktop\info-playground-AlbertoSavoldelli\06_Programmazione a oggetti\06_Programmazione a oggetti\obj\Debug\06_Programmazione a oggetti.exe
+C:\Users\a.savoldelli.1375\Desktop\info-playground-AlbertoSavoldelli\06_Programmazione a oggetti\06_Programmazione a oggetti\obj\Debug\06_Programmazione a oggetti.pdb
