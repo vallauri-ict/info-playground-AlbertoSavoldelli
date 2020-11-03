@@ -1,0 +1,9 @@
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\07-Metodo Factory\07-Metodo Factory\bin\Debug\07-Metodo Factory.exe.config
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\07-Metodo Factory\07-Metodo Factory\bin\Debug\07-Metodo Factory.exe
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\07-Metodo Factory\07-Metodo Factory\bin\Debug\07-Metodo Factory.pdb
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\07-Metodo Factory\07-Metodo Factory\obj\Debug\07-Metodo Factory.csprojAssemblyReference.cache
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\07-Metodo Factory\07-Metodo Factory\obj\Debug\_07_Metodo_Factory.Form1.resources
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\07-Metodo Factory\07-Metodo Factory\obj\Debug\_07_Metodo_Factory.Properties.Resources.resources
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\07-Metodo Factory\07-Metodo Factory\obj\Debug\07-Metodo Factory.csproj.GenerateResource.cache
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\07-Metodo Factory\07-Metodo Factory\obj\Debug\07-Metodo Factory.exe
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\07-Metodo Factory\07-Metodo Factory\obj\Debug\07-Metodo Factory.pdb

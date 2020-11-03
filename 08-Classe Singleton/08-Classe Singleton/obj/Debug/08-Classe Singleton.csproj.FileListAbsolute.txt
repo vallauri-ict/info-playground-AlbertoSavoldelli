@@ -1,0 +1,9 @@
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\08-Classe Singleton\08-Classe Singleton\bin\Debug\08-Classe Singleton.exe.config
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\08-Classe Singleton\08-Classe Singleton\bin\Debug\08-Classe Singleton.exe
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\08-Classe Singleton\08-Classe Singleton\bin\Debug\08-Classe Singleton.pdb
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\08-Classe Singleton\08-Classe Singleton\obj\Debug\08-Classe Singleton.csprojAssemblyReference.cache
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\08-Classe Singleton\08-Classe Singleton\obj\Debug\_08_Classe_Singleton.Form1.resources
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\08-Classe Singleton\08-Classe Singleton\obj\Debug\_08_Classe_Singleton.Properties.Resources.resources
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\08-Classe Singleton\08-Classe Singleton\obj\Debug\08-Classe Singleton.csproj.GenerateResource.cache
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\08-Classe Singleton\08-Classe Singleton\obj\Debug\08-Classe Singleton.exe
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\08-Classe Singleton\08-Classe Singleton\obj\Debug\08-Classe Singleton.pdb

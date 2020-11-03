@@ -1,0 +1,9 @@
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\09-Singleton Coda\09-Singleton Coda\bin\Debug\09-Singleton Coda.exe.config
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\09-Singleton Coda\09-Singleton Coda\bin\Debug\09-Singleton Coda.exe
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\09-Singleton Coda\09-Singleton Coda\bin\Debug\09-Singleton Coda.pdb
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\09-Singleton Coda\09-Singleton Coda\obj\Debug\09-Singleton Coda.csprojAssemblyReference.cache
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\09-Singleton Coda\09-Singleton Coda\obj\Debug\_09_Singleton_Coda.Form1.resources
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\09-Singleton Coda\09-Singleton Coda\obj\Debug\_09_Singleton_Coda.Properties.Resources.resources
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\09-Singleton Coda\09-Singleton Coda\obj\Debug\09-Singleton Coda.csproj.GenerateResource.cache
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\09-Singleton Coda\09-Singleton Coda\obj\Debug\09-Singleton Coda.exe
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\09-Singleton Coda\09-Singleton Coda\obj\Debug\09-Singleton Coda.pdb
