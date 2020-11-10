@@ -1,0 +1,9 @@
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\10-Classe Indexata\10-Classe Indexata\bin\Debug\10-Classe Indexata.exe.config
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\10-Classe Indexata\10-Classe Indexata\bin\Debug\10-Classe Indexata.exe
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\10-Classe Indexata\10-Classe Indexata\bin\Debug\10-Classe Indexata.pdb
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\10-Classe Indexata\10-Classe Indexata\obj\Debug\10-Classe Indexata.csprojAssemblyReference.cache
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\10-Classe Indexata\10-Classe Indexata\obj\Debug\_10_Classe_Indexata.Form1.resources
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\10-Classe Indexata\10-Classe Indexata\obj\Debug\_10_Classe_Indexata.Properties.Resources.resources
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\10-Classe Indexata\10-Classe Indexata\obj\Debug\10-Classe Indexata.csproj.GenerateResource.cache
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\10-Classe Indexata\10-Classe Indexata\obj\Debug\10-Classe Indexata.exe
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\10-Classe Indexata\10-Classe Indexata\obj\Debug\10-Classe Indexata.pdb

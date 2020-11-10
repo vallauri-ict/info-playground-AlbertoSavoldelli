@@ -1,0 +1,8 @@
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\11-Regex Compito\11-Regex Compito\bin\Debug\11-Regex Compito.exe.config
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\11-Regex Compito\11-Regex Compito\bin\Debug\11-Regex Compito.exe
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\11-Regex Compito\11-Regex Compito\bin\Debug\11-Regex Compito.pdb
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\11-Regex Compito\11-Regex Compito\obj\Debug\_11_Regex_Compito.Form1.resources
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\11-Regex Compito\11-Regex Compito\obj\Debug\_11_Regex_Compito.Properties.Resources.resources
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\11-Regex Compito\11-Regex Compito\obj\Debug\11-Regex Compito.csproj.GenerateResource.cache
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\11-Regex Compito\11-Regex Compito\obj\Debug\11-Regex Compito.exe
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\11-Regex Compito\11-Regex Compito\obj\Debug\11-Regex Compito.pdb
