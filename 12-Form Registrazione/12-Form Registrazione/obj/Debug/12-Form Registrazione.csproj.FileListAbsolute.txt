@@ -1,0 +1,9 @@
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\12-Form Registrazione\12-Form Registrazione\bin\Debug\12-Form Registrazione.exe.config
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\12-Form Registrazione\12-Form Registrazione\bin\Debug\12-Form Registrazione.exe
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\12-Form Registrazione\12-Form Registrazione\bin\Debug\12-Form Registrazione.pdb
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\12-Form Registrazione\12-Form Registrazione\obj\Debug\12-Form Registrazione.csprojAssemblyReference.cache
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\12-Form Registrazione\12-Form Registrazione\obj\Debug\_12_Form_Registrazione.Form1.resources
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\12-Form Registrazione\12-Form Registrazione\obj\Debug\_12_Form_Registrazione.Properties.Resources.resources
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\12-Form Registrazione\12-Form Registrazione\obj\Debug\12-Form Registrazione.csproj.GenerateResource.cache
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\12-Form Registrazione\12-Form Registrazione\obj\Debug\12-Form Registrazione.exe
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\12-Form Registrazione\12-Form Registrazione\obj\Debug\12-Form Registrazione.pdb
