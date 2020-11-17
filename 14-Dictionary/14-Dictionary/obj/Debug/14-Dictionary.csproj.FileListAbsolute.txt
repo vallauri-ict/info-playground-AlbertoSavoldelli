@@ -1,0 +1,9 @@
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\14-Dictionary\14-Dictionary\bin\Debug\14-Dictionary.exe.config
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\14-Dictionary\14-Dictionary\bin\Debug\14-Dictionary.exe
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\14-Dictionary\14-Dictionary\bin\Debug\14-Dictionary.pdb
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\14-Dictionary\14-Dictionary\obj\Debug\14-Dictionary.csprojAssemblyReference.cache
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\14-Dictionary\14-Dictionary\obj\Debug\_14_Dictionary.Form1.resources
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\14-Dictionary\14-Dictionary\obj\Debug\_14_Dictionary.Properties.Resources.resources
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\14-Dictionary\14-Dictionary\obj\Debug\14-Dictionary.csproj.GenerateResource.cache
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\14-Dictionary\14-Dictionary\obj\Debug\14-Dictionary.exe
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\14-Dictionary\14-Dictionary\obj\Debug\14-Dictionary.pdb

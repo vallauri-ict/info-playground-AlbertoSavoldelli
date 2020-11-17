@@ -1,0 +1,9 @@
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\13-Lista\13-Lista\bin\Debug\13-Lista.exe.config
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\13-Lista\13-Lista\bin\Debug\13-Lista.exe
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\13-Lista\13-Lista\bin\Debug\13-Lista.pdb
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\13-Lista\13-Lista\obj\Debug\13-Lista.csprojAssemblyReference.cache
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\13-Lista\13-Lista\obj\Debug\_13_Lista.Form1.resources
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\13-Lista\13-Lista\obj\Debug\_13_Lista.Properties.Resources.resources
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\13-Lista\13-Lista\obj\Debug\13-Lista.csproj.GenerateResource.cache
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\13-Lista\13-Lista\obj\Debug\13-Lista.exe
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\13-Lista\13-Lista\obj\Debug\13-Lista.pdb
