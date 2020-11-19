@@ -1,0 +1,9 @@
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\16-Pronto Soccorso\16-Pronto Soccorso\bin\Debug\16-Pronto Soccorso.exe.config
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\16-Pronto Soccorso\16-Pronto Soccorso\bin\Debug\16-Pronto Soccorso.exe
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\16-Pronto Soccorso\16-Pronto Soccorso\bin\Debug\16-Pronto Soccorso.pdb
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\16-Pronto Soccorso\16-Pronto Soccorso\obj\Debug\16-Pronto Soccorso.csprojAssemblyReference.cache
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\16-Pronto Soccorso\16-Pronto Soccorso\obj\Debug\_16_Pronto_Soccorso.Form1.resources
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\16-Pronto Soccorso\16-Pronto Soccorso\obj\Debug\_16_Pronto_Soccorso.Properties.Resources.resources
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\16-Pronto Soccorso\16-Pronto Soccorso\obj\Debug\16-Pronto Soccorso.csproj.GenerateResource.cache
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\16-Pronto Soccorso\16-Pronto Soccorso\obj\Debug\16-Pronto Soccorso.exe
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\16-Pronto Soccorso\16-Pronto Soccorso\obj\Debug\16-Pronto Soccorso.pdb

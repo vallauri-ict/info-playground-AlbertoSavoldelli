@@ -1,0 +1,9 @@
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\17-Gestione Container\17-Gestione Container\bin\Debug\17-Gestione Container.exe.config
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\17-Gestione Container\17-Gestione Container\bin\Debug\17-Gestione Container.exe
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\17-Gestione Container\17-Gestione Container\bin\Debug\17-Gestione Container.pdb
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\17-Gestione Container\17-Gestione Container\obj\Debug\17-Gestione Container.csprojAssemblyReference.cache
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\17-Gestione Container\17-Gestione Container\obj\Debug\_17_Gestione_Container.Form1.resources
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\17-Gestione Container\17-Gestione Container\obj\Debug\_17_Gestione_Container.Properties.Resources.resources
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\17-Gestione Container\17-Gestione Container\obj\Debug\17-Gestione Container.csproj.GenerateResource.cache
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\17-Gestione Container\17-Gestione Container\obj\Debug\17-Gestione Container.exe
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\17-Gestione Container\17-Gestione Container\obj\Debug\17-Gestione Container.pdb

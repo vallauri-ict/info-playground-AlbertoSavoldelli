@@ -1,0 +1,9 @@
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\15-Negozio Dictionary\15-Negozio Dictionary\bin\Debug\15-Negozio Dictionary.exe.config
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\15-Negozio Dictionary\15-Negozio Dictionary\bin\Debug\15-Negozio Dictionary.exe
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\15-Negozio Dictionary\15-Negozio Dictionary\bin\Debug\15-Negozio Dictionary.pdb
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\15-Negozio Dictionary\15-Negozio Dictionary\obj\Debug\15-Negozio Dictionary.csprojAssemblyReference.cache
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\15-Negozio Dictionary\15-Negozio Dictionary\obj\Debug\_15_Negozio_Dictionary.Form1.resources
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\15-Negozio Dictionary\15-Negozio Dictionary\obj\Debug\_15_Negozio_Dictionary.Properties.Resources.resources
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\15-Negozio Dictionary\15-Negozio Dictionary\obj\Debug\15-Negozio Dictionary.csproj.GenerateResource.cache
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\15-Negozio Dictionary\15-Negozio Dictionary\obj\Debug\15-Negozio Dictionary.exe
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\15-Negozio Dictionary\15-Negozio Dictionary\obj\Debug\15-Negozio Dictionary.pdb
