@@ -1,0 +1,9 @@
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\19-Esercizio Guidato Ereditarietà\19-Esercizio Guidato Ereditarietà\bin\Debug\19-Esercizio Guidato Ereditarietà.exe.config
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\19-Esercizio Guidato Ereditarietà\19-Esercizio Guidato Ereditarietà\bin\Debug\19-Esercizio Guidato Ereditarietà.exe
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\19-Esercizio Guidato Ereditarietà\19-Esercizio Guidato Ereditarietà\bin\Debug\19-Esercizio Guidato Ereditarietà.pdb
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\19-Esercizio Guidato Ereditarietà\19-Esercizio Guidato Ereditarietà\obj\Debug\19-Esercizio Guidato Ereditarietà.csprojAssemblyReference.cache
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\19-Esercizio Guidato Ereditarietà\19-Esercizio Guidato Ereditarietà\obj\Debug\_19_Esercizio_Guidato_Ereditarietà.Form1.resources
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\19-Esercizio Guidato Ereditarietà\19-Esercizio Guidato Ereditarietà\obj\Debug\_19_Esercizio_Guidato_Ereditarietà.Properties.Resources.resources
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\19-Esercizio Guidato Ereditarietà\19-Esercizio Guidato Ereditarietà\obj\Debug\19-Esercizio Guidato Ereditarietà.csproj.GenerateResource.cache
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\19-Esercizio Guidato Ereditarietà\19-Esercizio Guidato Ereditarietà\obj\Debug\19-Esercizio Guidato Ereditarietà.exe
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\19-Esercizio Guidato Ereditarietà\19-Esercizio Guidato Ereditarietà\obj\Debug\19-Esercizio Guidato Ereditarietà.pdb
