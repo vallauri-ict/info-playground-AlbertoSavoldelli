@@ -1,0 +1,9 @@
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\23-Ereditarietà Scopa\23-Ereditarietà Scopa\bin\Debug\23-Ereditarietà Scopa.exe.config
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\23-Ereditarietà Scopa\23-Ereditarietà Scopa\bin\Debug\23-Ereditarietà Scopa.exe
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\23-Ereditarietà Scopa\23-Ereditarietà Scopa\bin\Debug\23-Ereditarietà Scopa.pdb
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\23-Ereditarietà Scopa\23-Ereditarietà Scopa\obj\Debug\23-Ereditarietà Scopa.csprojAssemblyReference.cache
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\23-Ereditarietà Scopa\23-Ereditarietà Scopa\obj\Debug\_23_Ereditarietà_Scopa.Form1.resources
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\23-Ereditarietà Scopa\23-Ereditarietà Scopa\obj\Debug\_23_Ereditarietà_Scopa.Properties.Resources.resources
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\23-Ereditarietà Scopa\23-Ereditarietà Scopa\obj\Debug\23-Ereditarietà Scopa.csproj.GenerateResource.cache
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\23-Ereditarietà Scopa\23-Ereditarietà Scopa\obj\Debug\23-Ereditarietà Scopa.exe
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\23-Ereditarietà Scopa\23-Ereditarietà Scopa\obj\Debug\23-Ereditarietà Scopa.pdb
