@@ -1,0 +1,8 @@
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\24- Carte 2\24- Carte 2\bin\Debug\24- Carte 2.exe.config
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\24- Carte 2\24- Carte 2\bin\Debug\24- Carte 2.exe
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\24- Carte 2\24- Carte 2\bin\Debug\24- Carte 2.pdb
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\24- Carte 2\24- Carte 2\obj\Debug\_24__Carte_2.Form1.resources
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\24- Carte 2\24- Carte 2\obj\Debug\_24__Carte_2.Properties.Resources.resources
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\24- Carte 2\24- Carte 2\obj\Debug\24- Carte 2.csproj.GenerateResource.cache
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\24- Carte 2\24- Carte 2\obj\Debug\24- Carte 2.exe
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\24- Carte 2\24- Carte 2\obj\Debug\24- Carte 2.pdb
