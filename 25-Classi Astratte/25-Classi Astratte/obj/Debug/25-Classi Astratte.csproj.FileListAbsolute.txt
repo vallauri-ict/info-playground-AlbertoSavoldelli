@@ -1,0 +1,9 @@
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\25-Classi Astratte\25-Classi Astratte\bin\Debug\25-Classi Astratte.exe.config
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\25-Classi Astratte\25-Classi Astratte\bin\Debug\25-Classi Astratte.exe
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\25-Classi Astratte\25-Classi Astratte\bin\Debug\25-Classi Astratte.pdb
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\25-Classi Astratte\25-Classi Astratte\obj\Debug\25-Classi Astratte.csprojAssemblyReference.cache
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\25-Classi Astratte\25-Classi Astratte\obj\Debug\_25_Classi_Astratte.Form1.resources
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\25-Classi Astratte\25-Classi Astratte\obj\Debug\_25_Classi_Astratte.Properties.Resources.resources
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\25-Classi Astratte\25-Classi Astratte\obj\Debug\25-Classi Astratte.csproj.GenerateResource.cache
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\25-Classi Astratte\25-Classi Astratte\obj\Debug\25-Classi Astratte.exe
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\25-Classi Astratte\25-Classi Astratte\obj\Debug\25-Classi Astratte.pdb
