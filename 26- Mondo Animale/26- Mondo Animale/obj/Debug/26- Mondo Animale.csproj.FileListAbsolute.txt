@@ -1,0 +1,8 @@
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\26- Mondo Animale\26- Mondo Animale\obj\Debug\26- Mondo Animale.csprojAssemblyReference.cache
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\26- Mondo Animale\26- Mondo Animale\obj\Debug\_26__Mondo_Animale.Properties.Resources.resources
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\26- Mondo Animale\26- Mondo Animale\obj\Debug\26- Mondo Animale.csproj.GenerateResource.cache
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\26- Mondo Animale\26- Mondo Animale\bin\Debug\26- Mondo Animale.exe.config
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\26- Mondo Animale\26- Mondo Animale\bin\Debug\26- Mondo Animale.exe
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\26- Mondo Animale\26- Mondo Animale\bin\Debug\26- Mondo Animale.pdb
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\26- Mondo Animale\26- Mondo Animale\obj\Debug\26- Mondo Animale.exe
+C:\Users\albyj\Documents\info-playground-AlbertoSavoldelli\26- Mondo Animale\26- Mondo Animale\obj\Debug\26- Mondo Animale.pdb
