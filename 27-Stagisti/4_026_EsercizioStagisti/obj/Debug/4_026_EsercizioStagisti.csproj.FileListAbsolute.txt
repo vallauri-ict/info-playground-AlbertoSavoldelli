@@ -1,0 +1,9 @@
+C:\Users\a.savoldelli.1375\Desktop\info-playground-AlbertoSavoldelli\27-Stagisti\4_026_EsercizioStagisti\bin\Debug\4_026_EsercizioStagisti.exe.config
+C:\Users\a.savoldelli.1375\Desktop\info-playground-AlbertoSavoldelli\27-Stagisti\4_026_EsercizioStagisti\bin\Debug\4_026_EsercizioStagisti.exe
+C:\Users\a.savoldelli.1375\Desktop\info-playground-AlbertoSavoldelli\27-Stagisti\4_026_EsercizioStagisti\bin\Debug\4_026_EsercizioStagisti.pdb
+C:\Users\a.savoldelli.1375\Desktop\info-playground-AlbertoSavoldelli\27-Stagisti\4_026_EsercizioStagisti\obj\Debug\4_026_EsercizioStagisti.csprojAssemblyReference.cache
+C:\Users\a.savoldelli.1375\Desktop\info-playground-AlbertoSavoldelli\27-Stagisti\4_026_EsercizioStagisti\obj\Debug\_4_026_EsercizioStagisti.Form1.resources
+C:\Users\a.savoldelli.1375\Desktop\info-playground-AlbertoSavoldelli\27-Stagisti\4_026_EsercizioStagisti\obj\Debug\_4_026_EsercizioStagisti.Properties.Resources.resources
+C:\Users\a.savoldelli.1375\Desktop\info-playground-AlbertoSavoldelli\27-Stagisti\4_026_EsercizioStagisti\obj\Debug\4_026_EsercizioStagisti.csproj.GenerateResource.cache
+C:\Users\a.savoldelli.1375\Desktop\info-playground-AlbertoSavoldelli\27-Stagisti\4_026_EsercizioStagisti\obj\Debug\4_026_EsercizioStagisti.exe
+C:\Users\a.savoldelli.1375\Desktop\info-playground-AlbertoSavoldelli\27-Stagisti\4_026_EsercizioStagisti\obj\Debug\4_026_EsercizioStagisti.pdb
