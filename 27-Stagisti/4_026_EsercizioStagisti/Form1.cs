@@ -68,5 +68,22 @@ namespace _4_026_EsercizioStagisti
             else
                 MessageBox.Show("Non è stata effettuata alcuna ora in " + azienda, "information", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
+
+        private void btnElimina_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                if (numPosElimina.Text == "")
+                    elencoStudenti.cancella();
+                else
+                    elencoStudenti.cancella(Convert.ToInt32(numPosElimina.Text));
+                MessageBox.Show("Cancellazione effettuata!");
+                elencoStudenti.visalizzaDGV(dgvStudenti);
+            }
+            catch(Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
+        }
     }
 }
