@@ -1,0 +1,9 @@
+C:\Users\a.savoldelli.1375\Desktop\info-playground-AlbertoSavoldelli\28-Interfaces\28-Interfaces\bin\Debug\28-Interfaces.exe.config
+C:\Users\a.savoldelli.1375\Desktop\info-playground-AlbertoSavoldelli\28-Interfaces\28-Interfaces\bin\Debug\28-Interfaces.exe
+C:\Users\a.savoldelli.1375\Desktop\info-playground-AlbertoSavoldelli\28-Interfaces\28-Interfaces\bin\Debug\28-Interfaces.pdb
+C:\Users\a.savoldelli.1375\Desktop\info-playground-AlbertoSavoldelli\28-Interfaces\28-Interfaces\obj\Debug\28-Interfaces.csprojAssemblyReference.cache
+C:\Users\a.savoldelli.1375\Desktop\info-playground-AlbertoSavoldelli\28-Interfaces\28-Interfaces\obj\Debug\_28_Interfaces.Form1.resources
+C:\Users\a.savoldelli.1375\Desktop\info-playground-AlbertoSavoldelli\28-Interfaces\28-Interfaces\obj\Debug\_28_Interfaces.Properties.Resources.resources
+C:\Users\a.savoldelli.1375\Desktop\info-playground-AlbertoSavoldelli\28-Interfaces\28-Interfaces\obj\Debug\28-Interfaces.csproj.GenerateResource.cache
+C:\Users\a.savoldelli.1375\Desktop\info-playground-AlbertoSavoldelli\28-Interfaces\28-Interfaces\obj\Debug\28-Interfaces.exe
+C:\Users\a.savoldelli.1375\Desktop\info-playground-AlbertoSavoldelli\28-Interfaces\28-Interfaces\obj\Debug\28-Interfaces.pdb

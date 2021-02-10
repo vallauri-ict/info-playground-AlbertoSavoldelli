@@ -1,0 +1,9 @@
+C:\Users\a.savoldelli.1375\Desktop\info-playground-AlbertoSavoldelli\29-Interfaccia Comparabile\29-Interfaccia Comparabile\bin\Debug\29-Interfaccia Comparabile.exe.config
+C:\Users\a.savoldelli.1375\Desktop\info-playground-AlbertoSavoldelli\29-Interfaccia Comparabile\29-Interfaccia Comparabile\bin\Debug\29-Interfaccia Comparabile.exe
+C:\Users\a.savoldelli.1375\Desktop\info-playground-AlbertoSavoldelli\29-Interfaccia Comparabile\29-Interfaccia Comparabile\bin\Debug\29-Interfaccia Comparabile.pdb
+C:\Users\a.savoldelli.1375\Desktop\info-playground-AlbertoSavoldelli\29-Interfaccia Comparabile\29-Interfaccia Comparabile\obj\Debug\29-Interfaccia Comparabile.csprojAssemblyReference.cache
+C:\Users\a.savoldelli.1375\Desktop\info-playground-AlbertoSavoldelli\29-Interfaccia Comparabile\29-Interfaccia Comparabile\obj\Debug\_29_Interfaccia_Comparabile.btnOrdinaMostra.resources
+C:\Users\a.savoldelli.1375\Desktop\info-playground-AlbertoSavoldelli\29-Interfaccia Comparabile\29-Interfaccia Comparabile\obj\Debug\_29_Interfaccia_Comparabile.Properties.Resources.resources
+C:\Users\a.savoldelli.1375\Desktop\info-playground-AlbertoSavoldelli\29-Interfaccia Comparabile\29-Interfaccia Comparabile\obj\Debug\29-Interfaccia Comparabile.csproj.GenerateResource.cache
+C:\Users\a.savoldelli.1375\Desktop\info-playground-AlbertoSavoldelli\29-Interfaccia Comparabile\29-Interfaccia Comparabile\obj\Debug\29-Interfaccia Comparabile.exe
+C:\Users\a.savoldelli.1375\Desktop\info-playground-AlbertoSavoldelli\29-Interfaccia Comparabile\29-Interfaccia Comparabile\obj\Debug\29-Interfaccia Comparabile.pdb
