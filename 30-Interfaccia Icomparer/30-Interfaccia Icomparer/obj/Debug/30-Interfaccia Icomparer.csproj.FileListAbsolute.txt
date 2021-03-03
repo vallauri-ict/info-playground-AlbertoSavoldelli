@@ -1,0 +1,9 @@
+C:\Users\albyj\Pictures\info-playground-AlbertoSavoldelli\30-Interfaccia Icomparer\30-Interfaccia Icomparer\bin\Debug\30-Interfaccia Icomparer.exe.config
+C:\Users\albyj\Pictures\info-playground-AlbertoSavoldelli\30-Interfaccia Icomparer\30-Interfaccia Icomparer\bin\Debug\30-Interfaccia Icomparer.exe
+C:\Users\albyj\Pictures\info-playground-AlbertoSavoldelli\30-Interfaccia Icomparer\30-Interfaccia Icomparer\bin\Debug\30-Interfaccia Icomparer.pdb
+C:\Users\albyj\Pictures\info-playground-AlbertoSavoldelli\30-Interfaccia Icomparer\30-Interfaccia Icomparer\obj\Debug\30-Interfaccia Icomparer.csprojAssemblyReference.cache
+C:\Users\albyj\Pictures\info-playground-AlbertoSavoldelli\30-Interfaccia Icomparer\30-Interfaccia Icomparer\obj\Debug\_30_Interfaccia_Icomparer.Form1.resources
+C:\Users\albyj\Pictures\info-playground-AlbertoSavoldelli\30-Interfaccia Icomparer\30-Interfaccia Icomparer\obj\Debug\_30_Interfaccia_Icomparer.Properties.Resources.resources
+C:\Users\albyj\Pictures\info-playground-AlbertoSavoldelli\30-Interfaccia Icomparer\30-Interfaccia Icomparer\obj\Debug\30-Interfaccia Icomparer.csproj.GenerateResource.cache
+C:\Users\albyj\Pictures\info-playground-AlbertoSavoldelli\30-Interfaccia Icomparer\30-Interfaccia Icomparer\obj\Debug\30-Interfaccia Icomparer.exe
+C:\Users\albyj\Pictures\info-playground-AlbertoSavoldelli\30-Interfaccia Icomparer\30-Interfaccia Icomparer\obj\Debug\30-Interfaccia Icomparer.pdb
