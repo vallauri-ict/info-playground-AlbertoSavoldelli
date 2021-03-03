@@ -1,0 +1,8 @@
+C:\Users\albyj\Pictures\info-playground-AlbertoSavoldelli\31-Delegate\31-Delegate\bin\Debug\31-Delegate.exe.config
+C:\Users\albyj\Pictures\info-playground-AlbertoSavoldelli\31-Delegate\31-Delegate\bin\Debug\31-Delegate.exe
+C:\Users\albyj\Pictures\info-playground-AlbertoSavoldelli\31-Delegate\31-Delegate\bin\Debug\31-Delegate.pdb
+C:\Users\albyj\Pictures\info-playground-AlbertoSavoldelli\31-Delegate\31-Delegate\obj\Debug\_31_Delegate.Form1.resources
+C:\Users\albyj\Pictures\info-playground-AlbertoSavoldelli\31-Delegate\31-Delegate\obj\Debug\_31_Delegate.Properties.Resources.resources
+C:\Users\albyj\Pictures\info-playground-AlbertoSavoldelli\31-Delegate\31-Delegate\obj\Debug\31-Delegate.csproj.GenerateResource.cache
+C:\Users\albyj\Pictures\info-playground-AlbertoSavoldelli\31-Delegate\31-Delegate\obj\Debug\31-Delegate.exe
+C:\Users\albyj\Pictures\info-playground-AlbertoSavoldelli\31-Delegate\31-Delegate\obj\Debug\31-Delegate.pdb
