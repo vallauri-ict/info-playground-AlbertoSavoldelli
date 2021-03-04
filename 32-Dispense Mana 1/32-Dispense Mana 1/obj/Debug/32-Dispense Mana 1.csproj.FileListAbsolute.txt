@@ -1,0 +1,9 @@
+C:\Users\albyj\Pictures\info-playground-AlbertoSavoldelli\32-Dispense Mana 1\32-Dispense Mana 1\obj\Debug\32-Dispense Mana 1.csprojAssemblyReference.cache
+C:\Users\albyj\Pictures\info-playground-AlbertoSavoldelli\32-Dispense Mana 1\32-Dispense Mana 1\obj\Debug\_32_Dispense_Mana_1.Form1.resources
+C:\Users\albyj\Pictures\info-playground-AlbertoSavoldelli\32-Dispense Mana 1\32-Dispense Mana 1\obj\Debug\_32_Dispense_Mana_1.Properties.Resources.resources
+C:\Users\albyj\Pictures\info-playground-AlbertoSavoldelli\32-Dispense Mana 1\32-Dispense Mana 1\obj\Debug\32-Dispense Mana 1.csproj.GenerateResource.cache
+C:\Users\albyj\Pictures\info-playground-AlbertoSavoldelli\32-Dispense Mana 1\32-Dispense Mana 1\bin\Debug\32-Dispense Mana 1.exe.config
+C:\Users\albyj\Pictures\info-playground-AlbertoSavoldelli\32-Dispense Mana 1\32-Dispense Mana 1\bin\Debug\32-Dispense Mana 1.exe
+C:\Users\albyj\Pictures\info-playground-AlbertoSavoldelli\32-Dispense Mana 1\32-Dispense Mana 1\bin\Debug\32-Dispense Mana 1.pdb
+C:\Users\albyj\Pictures\info-playground-AlbertoSavoldelli\32-Dispense Mana 1\32-Dispense Mana 1\obj\Debug\32-Dispense Mana 1.exe
+C:\Users\albyj\Pictures\info-playground-AlbertoSavoldelli\32-Dispense Mana 1\32-Dispense Mana 1\obj\Debug\32-Dispense Mana 1.pdb
