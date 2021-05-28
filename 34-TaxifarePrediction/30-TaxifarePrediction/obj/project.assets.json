@@ -5487,11 +5487,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\a.savoldelli.1375\\Desktop\\info-playground-AlbertoSavoldelli\\30-TaxifarePrediction\\30-TaxifarePrediction\\30-TaxifarePrediction.csproj",
+      "projectUniqueName": "C:\\Users\\a.savoldelli.1375\\Desktop\\info-playground-AlbertoSavoldelli\\34-TaxifarePrediction\\30-TaxifarePrediction\\30-TaxifarePrediction.csproj",
       "projectName": "30-TaxifarePrediction",
-      "projectPath": "C:\\Users\\a.savoldelli.1375\\Desktop\\info-playground-AlbertoSavoldelli\\30-TaxifarePrediction\\30-TaxifarePrediction\\30-TaxifarePrediction.csproj",
+      "projectPath": "C:\\Users\\a.savoldelli.1375\\Desktop\\info-playground-AlbertoSavoldelli\\34-TaxifarePrediction\\30-TaxifarePrediction\\30-TaxifarePrediction.csproj",
       "packagesPath": "C:\\Users\\a.savoldelli.1375\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\a.savoldelli.1375\\Desktop\\info-playground-AlbertoSavoldelli\\30-TaxifarePrediction\\30-TaxifarePrediction\\obj\\",
+      "outputPath": "C:\\Users\\a.savoldelli.1375\\Desktop\\info-playground-AlbertoSavoldelli\\34-TaxifarePrediction\\30-TaxifarePrediction\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
